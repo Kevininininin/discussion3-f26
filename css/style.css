@@ -11,6 +11,7 @@ h1 {
 h2 {
     font-weight: bold;
     font-size: 30px;
+    /* adding comment to test if commit is working */
     color: #525252;
     text-decoration: underline;
 }
